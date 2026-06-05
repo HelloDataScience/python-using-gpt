@@ -10,5 +10,5 @@ Course materials for the Python using GPT lecture, including datasets and Jupyte
 - report_template.xlsx
 
 ## ipynb files
-- 고객 이탈 분석 계획.ipynb
-- 반도체 품질 분석 계획.ipynb
+- 분석계획_고객이탈.ipynb
+- 분석계획_반도체품질.ipynb
